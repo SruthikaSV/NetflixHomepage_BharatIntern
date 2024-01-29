@@ -1,2 +1,2 @@
-Netflix Homepage
+#Netflix Homepage
  This is my second task of BharatIntern internship. This task is about to create a homepage of netflix using HTML and CSS...
